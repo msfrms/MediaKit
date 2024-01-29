@@ -1,4 +1,10 @@
-**MediaKit** - toolkit that help easy and fast player development.
+# Welcome to MediaKit
+
+Build your MediaKit-based player, without constraints.
+
+*MediaKit is a modern, fast, easily player development. Designed for modularity and ease-of-use. Inspired by the SwiftUI design*
+
+# Our Mission
 
 **Our Mission** is simple: To help developers, easy and fast develop a player.
 
