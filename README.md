@@ -1,1 +1,2 @@
-**MediaKit** - toolkit for easy and fast player development
+**MediaKit** - toolkit that help easy and fast player development
+
