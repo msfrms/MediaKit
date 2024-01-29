@@ -6,7 +6,7 @@ We were inspired by the SwiftUI design and want to make player development no mo
 
 # Media Interface Focus
 
-<img src="stack_image.png" alt="drawing" width="200"/>
+<img src="Media Interface Focus.png" alt="drawing" width="300"/>
 
 **MediaKit** a set of video and audio components for player development
 
