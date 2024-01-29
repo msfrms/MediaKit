@@ -4,7 +4,7 @@
 
 We were inspired by the SwiftUI design and want to make player development no more complex than UI screens develop
 
-# 
+# Media Interface Focus
 
 <img src="stack_image.png" alt="drawing" width="200"/>
 
