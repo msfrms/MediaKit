@@ -2,7 +2,9 @@
 
 *Build your MediaKit-based player, without constraints. Designed for modularity and ease-of-use. We were Inspired by the SwiftUI design and want to make player development no more complex than UI develop.*
 
-**Our Motivation** is simple: To help developers, easy and fast develop a player.
+# Why MediaKit?
+
+The main motivation of MediaKit is simple: to help developers, easy and fast develop a player. Develop a player is complex, and there are many complex components.
 
 # Media Interface Focus
 
