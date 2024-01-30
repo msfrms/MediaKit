@@ -13,3 +13,5 @@ The main motivation of *MediaKit* is simple: to help developers, easy and fast d
 **MediaKit** a set of video and audio components for player development
 
 **PlayerKit** a set of players based _MediaKit_ components
+
+# Example
