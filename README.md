@@ -1,14 +1,8 @@
 # Welcome to MediaKit
 
-Build your MediaKit-based player, without constraints.
+*Build your MediaKit-based player, without constraints. Designed for modularity and ease-of-use. We were Inspired by the SwiftUI design and want to make player development no more complex than UI develop.*
 
-*MediaKit is a modern, fast, easily player development. Designed for modularity and ease-of-use. Inspired by the SwiftUI design*
-
-# Our Mission
-
-**Our Mission** is simple: To help developers, easy and fast develop a player.
-
-We were inspired by the SwiftUI design and want to make player development no more complex than UI screens develop
+**Our Motivation** is simple: To help developers, easy and fast develop a player.
 
 # Media Interface Focus
 
