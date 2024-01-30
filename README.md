@@ -4,7 +4,7 @@
 
 # Why MediaKit?
 
-The main motivation of *MediaKit* is simple: to help developers, easy and fast develop a player-based applications. Develop a player is complex, and there are many complex components. _MediaKit_ provides high level abstractions (similar _LazyList_, _VStack_, _HStack_ and etc in _SwiftUI_) combined which you can create a player.
+The main motivation of *MediaKit* is simple: to help developers, ease-of-use and fast to code develop a player-based applications. Develop a player is complex, and there are many complex components. _MediaKit_ provides high level abstractions (similar _LazyList_, _VStack_, _HStack_ and etc in _SwiftUI_) combined which you can create a player.
 
 # Media Interface Focus
 
